@@ -17,6 +17,7 @@ footer {
 
 main {
   display: flex;
+  height: 77vh;
 }
 article {
   display: flex;
